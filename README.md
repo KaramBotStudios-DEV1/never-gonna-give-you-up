@@ -14,4 +14,4 @@ ping localhost -n [time] >nul is used for the time intervals between starting "N
 
 5) Move the shortcut to the folder shell:startup [the one we just opened]
 
-6) subscribe to [[https://www.youtube.com/channel/UCo6WrBcBrI8OC2NsYrR-gRQ]] for this kind of content!
+6) subscribe to https://www.youtube.com/channel/UCo6WrBcBrI8OC2NsYrR-gRQ for this kind of content!
